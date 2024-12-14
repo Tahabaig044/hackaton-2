@@ -76,7 +76,7 @@ const Hero = () => {
             <div className='lg:flex flex-col lg:gap-[100px]  gap-4 lg:w-[25.28px] lg:h-[492px] md:hidden sm:hidden hidden '>
               <div className='lg:w-[108px] border-[1px] rotate-90 text-whitetext lg:block hidden'></div>
               <div className='text-[] lg:ml-[45px] flex-col justify-between flex gap-[20px] '>
-                <a href="https://www.facebook.com/profile.php?id=61554662968933&mibextid=ZbWKwL">< FaFacebookF className='text-whitetext' /></a>
+                <a href="/L">< FaFacebookF className='text-whitetext' /></a>
                 <FaTwitter className='text-bordercoloryello ' />
                 <FaPinterestP className='text-whitetext' />
               </div>
