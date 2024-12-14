@@ -1,6 +1,6 @@
  import Image from "next/image"
 import Link from "next/link";
-import latest1 from "../../../public/latestnew1.png"
+import latest1 from "../../components/public/latestnew1.png"
 import { IoIosArrowBack } from "react-icons/io"; 
 import { IoIosArrowForward } from "react-icons/io";
 import { GiHamburgerMenu } from "react-icons/gi";
